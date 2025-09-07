@@ -117,7 +117,7 @@ Static analysis, linting, formatting, and code metrics tools for maintaining hig
 
 ### Code Analysis & Metrics
 
-- **[periphery](https://github.com/peripheryapp/periphery)** `recommended` - Unused code detection tool (5k⭐)
+- **[periphery](https://github.com/peripheryapp/periphery)** `recommended` - Unused code detection tool
 - **[Tailor](https://github.com/sleekbyte/tailor)** - Swift static analysis 
 - **[SonarQube Swift Plugin](https://github.com/Backelite/sonar-swift)** - Enterprise code quality platform
 
@@ -160,8 +160,8 @@ Code generation tools and documentation generators for reducing boilerplate and 
 
 ### Official Actions
 
-- **[setup-xcode](https://github.com/maxim-lobanov/setup-xcode)** `recommended` - Xcode version management (350⭐)
-- **[ios-build-action](https://github.com/yukiarrr/ios-build-action)** `recommended` - Complete iOS build workflow (200⭐)
+- **[setup-xcode](https://github.com/maxim-lobanov/setup-xcode)** - Xcode version management 
+- **[ios-build-action](https://github.com/yukiarrr/ios-build-action)** - Complete iOS build workflow 
 
 ### Community Actions
 
